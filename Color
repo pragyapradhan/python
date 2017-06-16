@@ -1,0 +1,294 @@
+,color
+0,Pink
+1,Blue
+2,Cashew
+3,Dijon
+4,Natural
+5,Spa
+6,Paprika
+7,Cadet blue
+8,Light sage
+9,Khaki
+10,Toffee
+11,New Lilac
+12,Sky blue
+13,Canary green
+14,Cayenne
+15,Platinum
+16,Daisy
+17,Ocean
+18,Mocha
+19,Aqua
+20,Celadon
+21,Hydrangea
+22,Iron
+23,Moss
+24,Tangerine
+25,Grey
+26,Peacock
+27,Pewter
+28,Putty
+29,Violet
+30,Pebble
+31,Stone
+32,Hydreanges
+33,Grape
+34,Mauve
+35,Sand
+36,Cream
+37,Meadow
+38,Honey
+39,Sea Mist
+40,Truffle
+41,Chocolate
+42,Lake
+43,Lilac
+44,Taupe
+45,Merlot
+46,Silver Sage
+47,Charcoal
+48,Chartreus
+49,Salmon
+50,Navy
+51,Azure
+52,Burnt Orange
+53,Eggplant
+54,Grass
+55,Smoke
+56,Amethyst
+57,Crystal
+58,Emerald
+59,Alligator Quartz
+60,Smoky
+61,Teal
+62,Gold
+63,Silver
+64,Zibra Jasper
+65,Black/Lilac
+66,Navy/Melon
+67,Denim/Khaki
+68,Mahogany/Sky
+69,Pink/Navy
+70,Khaki/Heather
+71,Denim
+72,Lt. Heather Grey
+73,Denim Heather/Sky
+74,Oak
+75,Slate
+76,Brick
+77,Heather Gray
+78,Denim/Brick
+79,Brick/Heather Grey
+80,Heather Grey/Straw
+81,Chestnut Khaki 
+82,Oatmeal Crème
+83,Orange
+84,Spice
+85,White
+86,Brown
+87,Rose Gold
+88,Black
+89,Matte Chrome
+90,Matte Bronze
+91,Matte Silver
+92,Antique Gold
+93,Matte White
+94,Matte Black
+95,Matte Honey
+96,Matte Brown
+97,Red
+98,Green
+99,Yellow
+100,Light Blue
+101,Marina Blue
+102,Patriot Navy
+103,Wicker
+104,Vicuna
+105,Espresso
+106,Rust
+107,Ultramarine
+108,Midnight Blue
+109,Sage
+110,Whiskey
+111,Ashley
+112,Tan
+113,Wine
+114,Fucha
+115,Cappuccino
+116,Raspberry
+117,B
+118,Python Black 
+119,Lime
+120,Purple
+121,Magenta
+122,Clementine
+123,Burgandy
+124,Indigo
+125,Kelly Green
+126,Stout
+127,Walnut
+128,Titan Milled Brown
+129,Caribbean
+130,Cherry
+131,Brompton Black
+132,Brompton Brown
+133,Nubuck Bison Chocolate
+134,Waxwear Rangerriver
+135,Amber
+136,Tuscany River
+137,Tuscany Stone
+138,Nubuck Bison Tan
+139,Waxwear Rangertan
+140,Casablanca Black
+141,Casablanca Brown
+142,Tuscany Chocolate
+143,Cognac
+144,Tuscany Steel
+145,Brushed Twill Rangerriver
+146,Brushed Twill Tan
+147,Bayou
+148,Metallic Silver
+149,Sour Apple
+150,Meridian Red
+151,Metallic Bronze
+152,Boa Espresso
+153,Cream Gold Suede
+154,Treviso Black Luxe
+155,Bronze Suede
+156,Pearl
+157,Rose
+158,Bridle Tan
+159,Lariat
+160,Golden Amber
+161,Minerva Cognac
+162,Mad Dog
+163,Brunswick Terra
+164,Blue Lemon 
+165,Royal Blue Pink
+166,Sage Coral
+167,Camel
+168,Amethyst Quartz
+169,Blue Chalcedony
+170,Aqua Chalcedony 
+171,Green Chalcedony 
+172,Smoky Quartz 
+173,Citrine Quartz 
+174,Gold Oxidized
+175,Labradorite
+176,Chalcedony
+177,Smoky Topaz
+178,Turquoise
+179,Black Onyx 
+180,Coral
+181,Ivory
+182,Carnelian
+183,Lemongrass
+184,Papaya
+185,Terracotta
+186,Vetiver 
+187,Multi
+188,Natural/ Indigo
+189,Cordovan
+190,Natural Silver 
+191,Nickle Silver 
+192,Yellow Jade
+193,Saddle
+194,Black Apricot 
+195,Ebony 
+196,Natrual Burl 
+197,British Tan
+198,Flake
+199,Distress Brown 
+200,Olive
+201,Olive Honey 
+202,Turquoise Brown 
+203,Matte Gold 
+204,Adobe
+205,Boar 
+206,Frosted Grape 
+207,Bleached Grey 
+208,Oxblood
+209,Serrano
+210,Granite
+211,Iberian Blue
+212,Mountain Green 
+213,Dusk
+214,Clear
+215,Cobalt Blue 
+216,Fog
+217,Osyter 
+218,Almond
+219,Earth
+220,Cement
+221,Water 
+222,Cloud Cement 
+223,Espresso Coffee 
+224,Cadet Cement
+225,Stone Black 
+226,Citron
+227,Fudge
+228,Flax
+229,Beige
+230,Dark Natural
+231,Mushroom
+232,Gray / Patina
+233,Pink/ Gold
+234,Silver / Gray 
+235,Blue Berry 
+236,Iris
+237,Ice 
+238,Caramel
+239,Dove 
+240,Tortoise
+241,Robins Egg 
+242,Carbon
+243,Python White 
+244,Python Harbor Blue 
+245,Python Navy 
+246,Python Stone 
+247,Python Desert Rose
+248,Coffee 
+249,Pea Green 
+250,New Blue 
+251,Curry 
+252,Desert Rose 
+253,Harbor Blue 
+254,Cobalt
+255,Mahogany 
+256,Provence 
+257,Scottish Blue 
+258,Fir 
+259,Tar Heel Blue 
+260,Barley 
+261,Sante Fe 
+262,Sherwood 
+263,Poolside 
+264,Pink Sand 
+265,Seaside Blue 
+266,Atlantic Blue 
+267,Calabash 
+268,Palmetto 
+269,Retro Pink 
+270,Blush 
+271,Lavaender
+272,Steel 
+273,Marsala
+274,Apple Green 
+275,Autumn
+276,Island Blue 
+277,Bluebell 
+278,Nottingham
+279,Hawaiian Blue
+280,Barchetta
+281,Dolomite Grey 
+282,Blue Grey 
+283,Argento 
+284,Jet Stream Blue 
+285,Tartan
+286,Snapdragon 
+287,Red Beast 
+288,Beach Glass 
+289,Pink Coral 
+290,Manatee
+291,Straw
+292,Army 

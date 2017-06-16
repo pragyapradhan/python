@@ -1,0 +1,653 @@
+Date,Country,Price in US Dollars
+2016-01-01,Argentina,2.39
+2016-01-01,Australia,3.74
+2016-01-01,Brazil,3.35
+2016-01-01,Britain,4.22
+2016-01-01,Canada,4.14
+2016-01-01,Chile,2.94
+2016-01-01,China,2.68
+2016-01-01,Colombia,2.43
+2016-01-01,Costa Rica,4.02
+2016-01-01,Czech Republic,2.98
+2016-01-01,Denmark,4.32
+2016-01-01,Egypt,2.16
+2016-01-01,Euro area,4
+2016-01-01,Hong Kong,2.48
+2016-01-01,Hungary,3.08
+2016-01-01,India,1.9
+2016-01-01,Indonesia,2.19
+2016-01-01,Israel,4.29
+2016-01-01,Japan,3.12
+2016-01-01,Malaysia,1.82
+2016-01-01,Mexico,2.81
+2016-01-01,New Zealand,3.91
+2016-01-01,Norway,5.21
+2016-01-01,Pakistan,2.86
+2016-01-01,Peru,2.93
+2016-01-01,Philippines,2.79
+2016-01-01,Poland,2.37
+2016-01-01,Russia,1.53
+2016-01-01,Saudi Arabia,3.2
+2016-01-01,Singapore,3.27
+2016-01-01,South Africa,1.77
+2016-01-01,South Korea,3.59
+2016-01-01,Sri Lanka,2.43
+2016-01-01,Sweden,5.23
+2016-01-01,Switzerland,6.44
+2016-01-01,Taiwan,2.08
+2016-01-01,Thailand,3.09
+2016-01-01,Turkey,3.41
+2016-01-01,UAE,3.54
+2016-01-01,Ukraine,1.54
+2016-01-01,United States,4.93
+2016-01-01,Uruguay,3.74
+2016-01-01,Venezuela,0.66
+2016-01-01,Vietnam,2.67
+2016-01-01,Austria,3.76
+2016-01-01,Belgium,4.25
+2016-01-01,Estonia,3.23
+2016-01-01,Finland,4.41
+2016-01-01,France,4.41
+2016-01-01,Germany,3.86
+2016-01-01,Greece,3.6
+2016-01-01,Ireland,4.25
+2016-01-01,Italy,4.3
+2016-01-01,Netherlands,3.71
+2016-01-01,Portugal,3.23
+2016-01-01,Spain,3.76
+2015-07-01,Argentina,3.07
+2015-07-01,Australia,3.92
+2015-07-01,Brazil,4.28
+2015-07-01,Britain,4.51
+2015-07-01,Canada,4.54
+2015-07-01,Chile,3.27
+2015-07-01,China,2.74
+2015-07-01,Colombia,2.92
+2015-07-01,Costa Rica,4.03
+2015-07-01,Czech Republic,2.83
+2015-07-01,Denmark,5.08
+2015-07-01,Egypt,2.16
+2015-07-01,Euro area,4.05
+2015-07-01,Hong Kong,2.48
+2015-07-01,Hungary,3.18
+2015-07-01,India,1.83
+2015-07-01,Indonesia,2.29
+2015-07-01,Israel,4.63
+2015-07-01,Japan,2.99
+2015-07-01,Malaysia,2.01
+2015-07-01,Mexico,3.11
+2015-07-01,New Zealand,3.91
+2015-07-01,Norway,5.65
+2015-07-01,Pakistan,3.44
+2015-07-01,Peru,3.14
+2015-07-01,Philippines,3.61
+2015-07-01,Poland,2.54
+2015-07-01,Russia,1.88
+2015-07-01,Saudi Arabia,3.2
+2015-07-01,Singapore,3.44
+2015-07-01,South Africa,2.09
+2015-07-01,South Korea,3.76
+2015-07-01,Sri Lanka,2.61
+2015-07-01,Sweden,5.13
+2015-07-01,Switzerland,6.82
+2015-07-01,Taiwan,2.55
+2015-07-01,Thailand,3.17
+2015-07-01,Turkey,3.87
+2015-07-01,UAE,3.54
+2015-07-01,Ukraine,1.55
+2015-07-01,United States,4.79
+2015-07-01,Uruguay,4.13
+2015-07-01,Venezuela,0.67
+2015-07-01,Vietnam,2.75
+2015-07-01,Austria,3.71
+2015-07-01,Belgium,4.05
+2015-07-01,Estonia,3.23
+2015-07-01,Finland,4.49
+2015-07-01,France,4.49
+2015-07-01,Germany,3.93
+2015-07-01,Greece,3.34
+2015-07-01,Ireland,4.05
+2015-07-01,Italy,4.38
+2015-07-01,Netherlands,3.78
+2015-07-01,Portugal,3.29
+2015-07-01,Spain,4
+2015-01-01,Argentina,3.25
+2015-01-01,Australia,4.32
+2015-01-01,Brazil,5.21
+2015-01-01,Britain,4.37
+2015-01-01,Canada,4.64
+2015-01-01,Chile,3.35
+2015-01-01,China,2.77
+2015-01-01,Colombia,3.34
+2015-01-01,Costa Rica,4.01
+2015-01-01,Czech Republic,2.92
+2015-01-01,Denmark,5.38
+2015-01-01,Egypt,2.3
+2015-01-01,Euro area,4.26
+2015-01-01,Hong Kong,2.43
+2015-01-01,Hungary,3.17
+2015-01-01,India,1.89
+2015-01-01,Indonesia,2.24
+2015-01-01,Israel,4.45
+2015-01-01,Japan,3.14
+2015-01-01,Malaysia,2.11
+2015-01-01,Mexico,3.35
+2015-01-01,New Zealand,4.49
+2015-01-01,Norway,6.3
+2015-01-01,Pakistan,2.98
+2015-01-01,Peru,3.32
+2015-01-01,Philippines,3.67
+2015-01-01,Poland,2.48
+2015-01-01,Russia,1.36
+2015-01-01,Saudi Arabia,2.93
+2015-01-01,Singapore,3.53
+2015-01-01,South Africa,2.22
+2015-01-01,South Korea,3.78
+2015-01-01,Sri Lanka,2.65
+2015-01-01,Sweden,4.97
+2015-01-01,Switzerland,7.54
+2015-01-01,Taiwan,2.51
+2015-01-01,Thailand,3.04
+2015-01-01,Turkey,3.96
+2015-01-01,UAE,3.54
+2015-01-01,Ukraine,1.2
+2015-01-01,United States,4.79
+2015-01-01,Uruguay,4.63
+2015-01-01,Venezuela,2.53
+2015-01-01,Vietnam,2.81
+2015-01-01,Austria,3.93
+2015-01-01,Belgium,4.29
+2015-01-01,Estonia,3.36
+2015-01-01,Finland,4.75
+2015-01-01,France,4.52
+2015-01-01,Germany,4.25
+2015-01-01,Greece,3.53
+2015-01-01,Ireland,4.04
+2015-01-01,Italy,4.46
+2015-01-01,Netherlands,4
+2015-01-01,Portugal,3.48
+2015-01-01,Spain,4.23
+2014-07-01,Argentina,2.57
+2014-07-01,Australia,4.81
+2014-07-01,Brazil,5.86
+2014-07-01,Britain,4.93
+2014-07-01,Canada,5.25
+2014-07-01,Chile,3.72
+2014-07-01,China,2.73
+2014-07-01,Colombia,4.65
+2014-07-01,Costa Rica,4
+2014-07-01,Czech Republic,3.46
+2014-07-01,Denmark,5.15
+2014-07-01,Egypt,2.37
+2014-07-01,Euro area,4.95
+2014-07-01,Hong Kong,2.43
+2014-07-01,Hungary,3.77
+2014-07-01,India,1.75
+2014-07-01,Indonesia,2.43
+2014-07-01,Israel,5.13
+2014-07-01,Japan,3.64
+2014-07-01,Lithuania,3.49
+2014-07-01,Malaysia,2.41
+2014-07-01,Mexico,3.25
+2014-07-01,New Zealand,4.94
+2014-07-01,Norway,7.76
+2014-07-01,Pakistan,3.04
+2014-07-01,Peru,3.59
+2014-07-01,Philippines,3.7
+2014-07-01,Poland,3
+2014-07-01,Russia,2.55
+2014-07-01,Saudi Arabia,2.93
+2014-07-01,Singapore,3.8
+2014-07-01,South Africa,2.33
+2014-07-01,South Korea,4
+2014-07-01,Sri Lanka,2.69
+2014-07-01,Sweden,5.95
+2014-07-01,Switzerland,6.83
+2014-07-01,Taiwan,2.63
+2014-07-01,Thailand,3.12
+2014-07-01,Turkey,4.42
+2014-07-01,UAE,3.54
+2014-07-01,Ukraine,1.63
+2014-07-01,United States,4.8
+2014-07-01,Uruguay,4.92
+2014-07-01,Venezuela,6.82
+2014-07-01,Vietnam,2.83
+2014-07-01,Austria,4.56
+2014-07-01,Belgium,4.98
+2014-07-01,Estonia,3.9
+2014-07-01,Finland,5.52
+2014-07-01,France,5.25
+2014-07-01,Germany,4.94
+2014-07-01,Greece,4.11
+2014-07-01,Ireland,4.7
+2014-07-01,Italy,5.18
+2014-07-01,Netherlands,4.64
+2014-07-01,Portugal,4.04
+2014-07-01,Spain,4.91
+2014-01-01,Argentina,3.03
+2014-01-01,Australia,4.47
+2014-01-01,Brazil,5.25
+2014-01-01,Britain,4.63
+2014-01-01,Canada,5.01
+2014-01-01,Chile,3.69
+2014-01-01,China,2.74
+2014-01-01,Colombia,4.34
+2014-01-01,Costa Rica,4.28
+2014-01-01,Czech Republic,3.47
+2014-01-01,Denmark,5.18
+2014-01-01,Egypt,2.43
+2014-01-01,Euro area,4.96
+2014-01-01,Hong Kong,2.32
+2014-01-01,Hungary,3.85
+2014-01-01,India,1.54
+2014-01-01,Indonesia,2.3
+2014-01-01,Israel,5.02
+2014-01-01,Japan,2.97
+2014-01-01,Lithuania,3.46
+2014-01-01,Malaysia,2.23
+2014-01-01,Mexico,2.78
+2014-01-01,New Zealand,4.57
+2014-01-01,Norway,7.8
+2014-01-01,Pakistan,3.04
+2014-01-01,Peru,3.56
+2014-01-01,Philippines,2.98
+2014-01-01,Poland,3
+2014-01-01,Russia,2.62
+2014-01-01,Saudi Arabia,2.93
+2014-01-01,Singapore,3.6
+2014-01-01,South Africa,2.16
+2014-01-01,South Korea,3.47
+2014-01-01,Sri Lanka,2.68
+2014-01-01,Sweden,6.29
+2014-01-01,Switzerland,7.14
+2014-01-01,Taiwan,2.62
+2014-01-01,Thailand,2.92
+2014-01-01,Turkey,3.76
+2014-01-01,UAE,3.27
+2014-01-01,Ukraine,2.27
+2014-01-01,United States,4.62
+2014-01-01,Uruguay,4.91
+2014-01-01,Venezuela,7.15
+2014-01-01,Vietnam,2.84
+2014-01-01,Austria,4.6
+2014-01-01,Belgium,5.36
+2014-01-01,Estonia,3.8
+2014-01-01,Finland,5.56
+2014-01-01,France,5.15
+2014-01-01,Germany,4.98
+2014-01-01,Greece,4.14
+2014-01-01,Ireland,4.69
+2014-01-01,Italy,5.22
+2014-01-01,Netherlands,4.68
+2014-01-01,Portugal,4.07
+2014-01-01,Spain,4.95
+2013-07-01,Argentina,3.88
+2013-07-01,Australia,4.62
+2013-07-01,Brazil,5.28
+2013-07-01,Britain,4.02
+2013-07-01,Canada,5.26
+2013-07-01,Chile,3.94
+2013-07-01,China,2.61
+2013-07-01,Colombia,4.48
+2013-07-01,Costa Rica,4.31
+2013-07-01,Czech Republic,3.49
+2013-07-01,Denmark,4.91
+2013-07-01,Egypt,2.39
+2013-07-01,Euro area,4.66
+2013-07-01,Hong Kong,2.19
+2013-07-01,Hungary,3.76
+2013-07-01,India,1.5
+2013-07-01,Indonesia,2.8
+2013-07-01,Israel,4.8
+2013-07-01,Japan,3.2
+2013-07-01,Latvia,3.09
+2013-07-01,Lithuania,3.2
+2013-07-01,Malaysia,2.3
+2013-07-01,Mexico,2.86
+2013-07-01,New Zealand,4.3
+2013-07-01,Norway,7.51
+2013-07-01,Pakistan,3
+2013-07-01,Peru,3.59
+2013-07-01,Philippines,2.65
+2013-07-01,Poland,2.73
+2013-07-01,Russia,2.64
+2013-07-01,Saudi Arabia,2.67
+2013-07-01,Singapore,3.69
+2013-07-01,South Africa,2.24
+2013-07-01,South Korea,3.43
+2013-07-01,Sri Lanka,2.83
+2013-07-01,Sweden,6.16
+2013-07-01,Switzerland,6.72
+2013-07-01,Taiwan,2.63
+2013-07-01,Thailand,2.85
+2013-07-01,Turkey,4.34
+2013-07-01,UAE,3.27
+2013-07-01,Ukraine,2.33
+2013-07-01,United States,4.56
+2013-07-01,Uruguay,4.98
+2013-07-01,Venezuela,7.15
+2013-07-01,Austria,4.36
+2013-07-01,Belgium,4.76
+2013-07-01,Estonia,3.54
+2013-07-01,Finland,5.27
+2013-07-01,France,5.01
+2013-07-01,Germany,4.68
+2013-07-01,Greece,3.34
+2013-07-01,Ireland,4.45
+2013-07-01,Italy,4.82
+2013-07-01,Netherlands,4.44
+2013-07-01,Portugal,3.79
+2013-07-01,Spain,4.5
+2013-01-01,Argentina,3.82
+2013-01-01,Australia,4.9
+2013-01-01,Brazil,5.64
+2013-01-01,Britain,4.25
+2013-01-01,Canada,5.39
+2013-01-01,Chile,4.35
+2013-01-01,China,2.57
+2013-01-01,Colombia,4.85
+2013-01-01,Costa Rica,4.39
+2013-01-01,Czech Republic,3.72
+2013-01-01,Denmark,5.18
+2013-01-01,Egypt,2.39
+2013-01-01,Euro area,4.88
+2013-01-01,Hong Kong,2.19
+2013-01-01,Hungary,3.82
+2013-01-01,India,1.67
+2013-01-01,Indonesia,2.86
+2013-01-01,Israel,4
+2013-01-01,Japan,3.51
+2013-01-01,Latvia,3.28
+2013-01-01,Lithuania,3.07
+2013-01-01,Malaysia,2.58
+2013-01-01,Mexico,2.9
+2013-01-01,New Zealand,4.32
+2013-01-01,Norway,7.84
+2013-01-01,Pakistan,2.97
+2013-01-01,Peru,3.91
+2013-01-01,Philippines,2.91
+2013-01-01,Poland,2.94
+2013-01-01,Russia,2.43
+2013-01-01,Saudi Arabia,2.93
+2013-01-01,Singapore,3.64
+2013-01-01,South Africa,2.31
+2013-01-01,South Korea,3.41
+2013-01-01,Sri Lanka,2.77
+2013-01-01,Sweden,6.39
+2013-01-01,Switzerland,7.12
+2013-01-01,Taiwan,2.54
+2013-01-01,Thailand,2.92
+2013-01-01,Turkey,4.78
+2013-01-01,UAE,3.27
+2013-01-01,Ukraine,2.33
+2013-01-01,United States,4.37
+2013-01-01,Uruguay,5.45
+2013-01-01,Venezuela,9.08
+2013-01-01,Austria,4.6
+2013-01-01,Belgium,5.16
+2013-01-01,Estonia,3.66
+2013-01-01,Finland,5.09
+2013-01-01,France,4.89
+2013-01-01,Germany,4.94
+2013-01-01,Greece,4.48
+2013-01-01,Ireland,4.74
+2013-01-01,Italy,5.22
+2013-01-01,Netherlands,4.68
+2013-01-01,Portugal,4
+2013-01-01,Spain,4.75
+2012-07-01,Argentina,4.16
+2012-07-01,Australia,4.68
+2012-07-01,Brazil,4.94
+2012-07-01,Britain,4.16
+2012-07-01,Canada,5.02
+2012-07-01,Chile,4.16
+2012-07-01,China,2.45
+2012-07-01,Colombia,4.77
+2012-07-01,Costa Rica,2.4
+2012-07-01,Czech Republic,3.34
+2012-07-01,Denmark,4.65
+2012-07-01,Egypt,2.64
+2012-07-01,Euro area,4.34
+2012-07-01,Hong Kong,2.13
+2012-07-01,Hungary,3.48
+2012-07-01,India,1.58
+2012-07-01,Indonesia,2.55
+2012-07-01,Israel,2.92
+2012-07-01,Japan,4.09
+2012-07-01,Latvia,2.94
+2012-07-01,Lithuania,2.74
+2012-07-01,Malaysia,2.33
+2012-07-01,Mexico,2.7
+2012-07-01,New Zealand,4
+2012-07-01,Norway,7.06
+2012-07-01,Pakistan,3.01
+2012-07-01,Philippines,2.8
+2012-07-01,Poland,2.63
+2012-07-01,Russia,2.29
+2012-07-01,Saudi Arabia,2.67
+2012-07-01,Singapore,3.5
+2012-07-01,South Africa,2.36
+2012-07-01,South Korea,3.21
+2012-07-01,Sri Lanka,2.21
+2012-07-01,Sweden,5.73
+2012-07-01,Switzerland,6.56
+2012-07-01,Taiwan,2.48
+2012-07-01,Thailand,2.59
+2012-07-01,Turkey,4.52
+2012-07-01,UAE,3.27
+2012-07-01,Ukraine,1.86
+2012-07-01,United States,4.33
+2012-07-01,Uruguay,4.53
+2012-07-01,Venezuela,7.92
+2012-07-01,Austria,3.87
+2012-07-01,Belgium,4.61
+2012-07-01,Estonia,2.47
+2012-07-01,Finland,4.55
+2012-07-01,France,4.36
+2012-07-01,Germany,4.41
+2012-07-01,Greece,3.25
+2012-07-01,Ireland,4.23
+2012-07-01,Italy,4.36
+2012-07-01,Netherlands,4.1
+2012-07-01,Portugal,6
+2012-07-01,Spain,4.24
+2012-01-01,Argentina,4.64
+2012-01-01,Australia,4.94
+2012-01-01,Brazil,5.68
+2012-01-01,Britain,3.82
+2012-01-01,Canada,4.63
+2012-01-01,Chile,4.05
+2012-01-01,China,2.44
+2012-01-01,Colombia,4.54
+2012-01-01,Costa Rica,4.02
+2012-01-01,Czech Republic,3.45
+2012-01-01,Denmark,5.37
+2012-01-01,Egypt,2.57
+2012-01-01,Euro area,4.43
+2012-01-01,Hong Kong,2.12
+2012-01-01,Hungary,2.63
+2012-01-01,India,1.62
+2012-01-01,Indonesia,2.46
+2012-01-01,Israel,4.13
+2012-01-01,Japan,4.16
+2012-01-01,Latvia,3
+2012-01-01,Lithuania,2.87
+2012-01-01,Malaysia,2.34
+2012-01-01,Mexico,2.7
+2012-01-01,New Zealand,4.05
+2012-01-01,Norway,6.79
+2012-01-01,Pakistan,2.89
+2012-01-01,Peru,3.71
+2012-01-01,Philippines,2.68
+2012-01-01,Poland,2.58
+2012-01-01,Russia,2.55
+2012-01-01,Saudi Arabia,2.67
+2012-01-01,Singapore,3.75
+2012-01-01,South Africa,2.45
+2012-01-01,South Korea,3.19
+2012-01-01,Sri Lanka,2.55
+2012-01-01,Sweden,5.91
+2012-01-01,Switzerland,6.81
+2012-01-01,Taiwan,2.5
+2012-01-01,Thailand,2.46
+2012-01-01,Turkey,3.54
+2012-01-01,UAE,3.27
+2012-01-01,Ukraine,2.11
+2012-01-01,United States,4.2
+2012-01-01,Uruguay,4.63
+2012-01-01,Venezuela,6.99
+2012-01-01,Austria,3.92
+2012-01-01,Belgium,4.69
+2012-01-01,Estonia,2.59
+2012-01-01,Finland,4.76
+2012-01-01,France,4.57
+2012-01-01,Germany,4.48
+2012-01-01,Greece,4.19
+2012-01-01,Ireland,4.82
+2012-01-01,Italy,4.44
+2012-01-01,Netherlands,4.12
+2012-01-01,Portugal,3.68
+2012-01-01,Spain,4.44
+2011-07-01,Argentina,4.84
+2011-07-01,Australia,4.94
+2011-07-01,Brazil,6.16
+2011-07-01,Britain,3.89
+2011-07-01,Canada,5
+2011-07-01,Chile,4
+2011-07-01,China,2.27
+2011-07-01,Colombia,4.74
+2011-07-01,Costa Rica,4.07
+2011-07-01,Czech Republic,4.07
+2011-07-01,Denmark,5.48
+2011-07-01,Egypt,2.36
+2011-07-01,Euro area,4.93
+2011-07-01,Hong Kong,1.94
+2011-07-01,Hungary,4.04
+2011-07-01,India,1.89
+2011-07-01,Indonesia,2.64
+2011-07-01,Israel,4.67
+2011-07-01,Japan,4.08
+2011-07-01,Latvia,3.23
+2011-07-01,Lithuania,3.03
+2011-07-01,Malaysia,2.42
+2011-07-01,Mexico,2.74
+2011-07-01,New Zealand,4.41
+2011-07-01,Norway,8.31
+2011-07-01,Pakistan,2.38
+2011-07-01,Peru,3.65
+2011-07-01,Philippines,2.78
+2011-07-01,Poland,3.09
+2011-07-01,Russia,2.7
+2011-07-01,Saudi Arabia,2.67
+2011-07-01,Singapore,3.65
+2011-07-01,South Africa,2.87
+2011-07-01,South Korea,3.5
+2011-07-01,Sri Lanka,2.56
+2011-07-01,Sweden,7.64
+2011-07-01,Switzerland,8.06
+2011-07-01,Taiwan,2.6
+2011-07-01,Thailand,2.35
+2011-07-01,Turkey,3.77
+2011-07-01,UAE,3.27
+2011-07-01,Ukraine,2.06
+2011-07-01,United States,4.07
+2011-07-01,Uruguay,4.88
+2011-07-01,Venezuela,6.52
+2011-07-01,Austria,4.43
+2011-07-01,Belgium,5.38
+2011-07-01,Estonia,3.15
+2011-07-01,Finland,5.38
+2011-07-01,France,5.02
+2011-07-01,Germany,4.87
+2011-07-01,Greece,4.67
+2011-07-01,Ireland,5.45
+2011-07-01,Italy,5.02
+2011-07-01,Netherlands,4.66
+2011-07-01,Portugal,4.16
+2011-07-01,Spain,5.02
+2010-07-01,Argentina,3.56
+2010-07-01,Australia,3.84
+2010-07-01,Brazil,4.91
+2010-07-01,Britain,3.48
+2010-07-01,Canada,4
+2010-07-01,Chile,3.34
+2010-07-01,China,1.95
+2010-07-01,Colombia,4.39
+2010-07-01,Costa Rica,3.83
+2010-07-01,Czech Republic,3.43
+2010-07-01,Denmark,4.9
+2010-07-01,Egypt,2.28
+2010-07-01,Euro area,4.33
+2010-07-01,Hong Kong,1.9
+2010-07-01,Hungary,3.33
+2010-07-01,Indonesia,2.51
+2010-07-01,Israel,3.86
+2010-07-01,Japan,3.67
+2010-07-01,Latvia,2.8
+2010-07-01,Lithuania,2.71
+2010-07-01,Malaysia,2.19
+2010-07-01,Mexico,2.5
+2010-07-01,New Zealand,3.59
+2010-07-01,Norway,7.2
+2010-07-01,Pakistan,2.46
+2010-07-01,Peru,3.54
+2010-07-01,Philippines,2.19
+2010-07-01,Poland,2.6
+2010-07-01,Russia,2.33
+2010-07-01,Saudi Arabia,2.67
+2010-07-01,Singapore,3.08
+2010-07-01,South Africa,2.45
+2010-07-01,South Korea,2.82
+2010-07-01,Sri Lanka,1.86
+2010-07-01,Sweden,6.56
+2010-07-01,Switzerland,6.19
+2010-07-01,Taiwan,2.34
+2010-07-01,Thailand,2.17
+2010-07-01,Turkey,3.89
+2010-07-01,UAE,2.99
+2010-07-01,Ukraine,1.84
+2010-07-01,United States,3.73
+2010-07-01,Uruguay,3.74
+2010-01-01,Argentina,1.84
+2010-01-01,Australia,3.98
+2010-01-01,Brazil,4.76
+2010-01-01,Britain,3.67
+2010-01-01,Canada,3.97
+2010-01-01,Chile,3.18
+2010-01-01,China,1.83
+2010-01-01,Colombia,3.91
+2010-01-01,Costa Rica,3.52
+2010-01-01,Czech Republic,3.71
+2010-01-01,Denmark,5.99
+2010-01-01,Egypt,2.38
+2010-01-01,Euro area,4.84
+2010-01-01,Hong Kong,1.91
+2010-01-01,Hungary,3.86
+2010-01-01,Indonesia,2.24
+2010-01-01,Israel,3.99
+2010-01-01,Japan,3.5
+2010-01-01,Latvia,3.09
+2010-01-01,Lithuania,2.87
+2010-01-01,Malaysia,2.08
+2010-01-01,Mexico,2.5
+2010-01-01,New Zealand,3.61
+2010-01-01,Norway,7.02
+2010-01-01,Pakistan,2.42
+2010-01-01,Peru,2.81
+2010-01-01,Philippines,2.21
+2010-01-01,Poland,2.86
+2010-01-01,Russia,2.34
+2010-01-01,Saudi Arabia,2.67
+2010-01-01,Singapore,3.19
+2010-01-01,South Africa,2.46
+2010-01-01,South Korea,2.98
+2010-01-01,Sri Lanka,1.83
+2010-01-01,Sweden,5.51
+2010-01-01,Switzerland,6.3
+2010-01-01,Taiwan,2.36
+2010-01-01,Thailand,2.11
+2010-01-01,Turkey,3.83
+2010-01-01,UAE,2.99
+2010-01-01,Ukraine,1.83
+2010-01-01,United States,3.58
+2010-01-01,Uruguay,3.32
