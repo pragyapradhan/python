@@ -1,0 +1,8 @@
+Column1,Column2,Column3,Column4
+Name,A,SKU,E
+Address,B,Email,D
+Telephone Number,C,Address Book,
+Email,D,Name,A
+SKU,E,Telephone Number,C
+Code,F,Code,F
+Swatch,G,NaN,
